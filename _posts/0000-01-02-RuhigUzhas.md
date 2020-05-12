@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Amat Vitoria Curam" - The Mechanic
 Use the left arrow to go back!
